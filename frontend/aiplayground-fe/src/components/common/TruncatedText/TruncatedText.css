@@ -1,0 +1,15 @@
+.truncated-text-container {
+  max-width: 300px;
+  word-wrap: break-word;
+  word-break: break-word;
+  cursor: pointer;
+  text-align: center;
+  transition: all 0.2s ease;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+.truncated-text-container:hover {
+  background-color: rgba(99, 102, 241, 0.08);
+  transform: scale(1.02);
+}

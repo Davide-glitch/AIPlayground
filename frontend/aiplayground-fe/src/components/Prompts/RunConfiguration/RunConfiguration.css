@@ -1,0 +1,42 @@
+.run-configuration {
+  border-top: 2px solid #480c44;
+  padding-top: 2rem;
+  margin-top: 2rem;
+}
+
+.model-chips {
+  gap: 0.5rem;
+}
+
+.run-results-table {
+  margin-top: 2rem;
+}
+
+.run-results-table .MuiTableCell-root {
+  font-size: 14px;
+}
+
+.run-results-table .MuiTableCell-head {
+  background-color: #480c44;
+  color: white;
+  font-weight: 600;
+}
+
+
+.large-button {
+  width: 80px;
+  height: 80px;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+  padding: 8px;
+  text-transform: none;
+}
+
+.large-icon {
+  font-size: 64px;
+  margin-bottom: 4px;
+}
